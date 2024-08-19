@@ -35,11 +35,11 @@ The trained model is deployed to perform real-time detection of craters and boul
 **Installation**
 To get started with this project, clone the repository and install the required dependencies:
 
-\\\
+\\
 git clone https://github.com/yourusername/OHRC_Crater_and_Boulder_Detection.git
 cd OHRC_Crater_and_Boulder_Detection
 pip install -r requirements.txt
-\\\
+\\
 **Usage**
 Data Preparation: Ensure that your OHRC dataset is properly organized and annotated.
 Data Engineering: Run the augmentation and preprocessing scripts to prepare the data.
